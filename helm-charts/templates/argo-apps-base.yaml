@@ -6,6 +6,6 @@ metadata:
   labels:
     argocd.argoproj.io/secret-type: repository
 stringData:
-  url: https://paas2.github.io/paas-helm-charts/
+  url: https://inders-poc.github.io/helm-charts/
   name: argo-apps-base
   type: helm
